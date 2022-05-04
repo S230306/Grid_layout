@@ -1,0 +1,14 @@
+.container{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr;
+    background-color: pink;
+    padding:1px;
+}
+.griditems{
+    background-color: rgba(red, green, blue, alpha);
+    border:1px solid black;
+    padding: 20px;
+    font-size: 30;
+    text-align: center;
+
+}

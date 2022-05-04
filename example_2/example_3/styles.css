@@ -1,0 +1,20 @@
+.gridcontainer{
+    display: inline-grid;
+    grid-template-columns:auto auto auto;
+    background-color: pink;
+    border: 2px solid black;
+    padding:1px;
+}
+.griditmes{
+    background-color: aqua;
+    border: 1px solid red;
+    padding:20px;
+    font-size: 30;
+    text-align: center;
+}
+h1{
+    background-color: aqua;
+    padding: 1px;
+}
+
+
